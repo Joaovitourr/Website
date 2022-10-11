@@ -1,0 +1,140 @@
+ @media screen and (min-width: 300px){
+    #email{
+        width: 20em;
+       
+    }
+    
+ }
+
+
+
+
+ @media  screen and (min-width: 500px) {
+   
+   
+ #sign{
+    width: 6em;
+    
+    
+     }    #email{
+        width: 24em;
+      height: 4em;
+
+          
+         } .header{
+          height: 500px;
+         } .heading{
+            font-size: 1.8em;
+         }
+         
+         .titulo-header > h1{
+          color: #ffff;
+          font-size: 2.5em;
+          text-align: center;
+
+    } 
+
+
+      #enviar{
+        
+  width:  8em;
+  height: 53px;
+  margin-left: -2px;
+  border-radius: 1px;
+  text-align: center;
+  
+      }
+
+@media screen and (min-width: 1400px){
+   
+    .logo{
+        width: 160px;
+      
+        
+    } .header{
+        height: 400px;
+    } .img-serie:hover{
+        transition: 4s ease-in;
+        transform: rotateY(360deg);
+        cursor: pointer;
+    } 
+   
+    #sign{
+  
+        width: 7em;
+        height: 2em;
+     } .ls-select{
+        width: 7em;
+        height: 2em;
+     }    
+    #email{
+        width: 40em;
+        height: 5em;
+    } #enviar{
+        width: 10em;
+        height: 4.1em;
+        margin-left: -2px;
+        font-size: 1em;
+        border: none;
+        letter-spacing: 2px;
+    } 
+    .titulo-1{
+        font-size: 2em;
+    } .description-1{
+        font-size: 1.5em;
+    }
+    .heading{
+        font-size: 3em;
+       
+        
+     }      
+     .footer > p{
+        color: #ffff;
+        font-size: 2em;
+     } 
+     
+     #img{
+        height: 400px;
+     } 
+    
+} 
+ }  @media screen and (min-width: 1800px) {
+     
+   .logo{
+    width: 300px;
+   } .sign{
+    font-size: 1em;
+    height: 2em;
+      width: 8em;
+
+   }  .series{
+    margin-top: 3em;
+  
+   } 
+   
+  .header{
+    height: 600px;
+  } 
+ .ls-select{
+        font-size: 1em;
+        height: 2em;
+          width: 8em;
+          text-align: center;
+       
+    }
+    .titulo-header{
+        margin-top: 8em;
+    }
+
+    .titulo-header > h1{
+      text-align: center;
+        font-size: 4em;
+       
+    } .titulo-header > h2{
+        font-size: 2em;
+        
+    }  .fa-instagram{
+        font-size: 2em;
+
+    }
+ }
